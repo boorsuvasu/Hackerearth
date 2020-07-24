@@ -1,4 +1,2 @@
 # document
-## this is my document
-### this is my document
-#### this is my document
+## Hacker earth practise
